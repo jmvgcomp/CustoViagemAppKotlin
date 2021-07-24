@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Gasto de viagem</string>
+    <string name="distancia">Distância</string>
+    <string name="preco">Preço</string>
+    <string name="total_quilometros">Total de quilômetros</string>
+    <string name="preco_litro">Preço por litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="km_litro">KM por Litro</string>
 </resources>
