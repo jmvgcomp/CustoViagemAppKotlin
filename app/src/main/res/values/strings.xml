@@ -6,4 +6,6 @@
     <string name="preco_litro">Preço por litro</string>
     <string name="autonomia">Autonomia</string>
     <string name="km_litro">KM por Litro</string>
+    <string name="mensagem_aviso">Preencha todos os campos corretamente</string>
+    <string name="excecao_number_format">Informe valores válidos</string>
 </resources>
